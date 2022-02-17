@@ -6,3 +6,11 @@ H:\DATA CODE\Project_C_Shape\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedB
 H:\DATA CODE\Project_C_Shape\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 H:\DATA CODE\Project_C_Shape\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 H:\DATA CODE\Project_C_Shape\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
