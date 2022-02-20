@@ -5,7 +5,12 @@
       "ProjectGuid": "5e87c4bd-762b-43af-953d-9e9bd787af79",
       "DisplayName": "ConsoleApp2",
       "ColorIndex": 0
+    },
+    "21361232-c756-4eeb-a898-c3fbeac4c21a": {
+      "ProjectGuid": "21361232-c756-4eeb-a898-c3fbeac4c21a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\bin\Debug\In_Thong_Tin_Sinh_Vien.exe.config
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\bin\Debug\In_Thong_Tin_Sinh_Vien.exe
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\bin\Debug\In_Thong_Tin_Sinh_Vien.pdb
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\obj\Debug\In_Thong_Tin_Sinh_Vien.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\obj\Debug\In_Thong_Tin_Sinh_Vien.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\obj\Debug\In_Thong_Tin_Sinh_Vien.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\obj\Debug\In_Thong_Tin_Sinh_Vien.exe
+H:\DATA CODE\Project_C_Shape\In_Thong_Tin_Sinh_Vien\obj\Debug\In_Thong_Tin_Sinh_Vien.pdb
