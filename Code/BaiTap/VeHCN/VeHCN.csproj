@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BD976435-4AD2-4B76-A295-C1F561056C1F}</ProjectGuid>
+    <ProjectGuid>{17411C3E-4C5C-4240-BB9D-50C039885624}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>VeHCN</RootNamespace>
     <AssemblyName>VeHCN</AssemblyName>
