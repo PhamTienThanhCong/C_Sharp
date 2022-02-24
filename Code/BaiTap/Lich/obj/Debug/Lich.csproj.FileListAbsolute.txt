@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\bin\Debug\Lich.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\bin\Debug\Lich.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\bin\Debug\Lich.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\obj\Debug\Lich.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\obj\Debug\Lich.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\obj\Debug\Lich.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\obj\Debug\Lich.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Lich\obj\Debug\Lich.pdb
