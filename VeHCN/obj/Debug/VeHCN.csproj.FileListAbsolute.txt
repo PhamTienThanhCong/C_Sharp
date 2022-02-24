@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\VeHCN\bin\Debug\VeHCN.exe.config
+H:\DATA CODE\Project_C_Shape\VeHCN\bin\Debug\VeHCN.exe
+H:\DATA CODE\Project_C_Shape\VeHCN\bin\Debug\VeHCN.pdb
+H:\DATA CODE\Project_C_Shape\VeHCN\obj\Debug\VeHCN.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\VeHCN\obj\Debug\VeHCN.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\VeHCN\obj\Debug\VeHCN.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\VeHCN\obj\Debug\VeHCN.exe
+H:\DATA CODE\Project_C_Shape\VeHCN\obj\Debug\VeHCN.pdb

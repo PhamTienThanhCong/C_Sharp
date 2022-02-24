@@ -5,6 +5,11 @@
       "ProjectGuid": "23c3152d-7542-41ff-a214-4f96ef98e278",
       "DisplayName": "In_Thong_Tin_Sinh_Vien",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
