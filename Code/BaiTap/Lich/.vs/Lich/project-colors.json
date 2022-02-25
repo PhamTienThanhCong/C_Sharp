@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fdd4dd53-4257-4e65-9e3f-a015c37915dd": {
+      "ProjectGuid": "fdd4dd53-4257-4e65-9e3f-a015c37915dd",
+      "DisplayName": "Lich",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
