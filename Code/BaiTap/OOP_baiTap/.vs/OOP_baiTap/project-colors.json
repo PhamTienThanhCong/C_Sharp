@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b34a2ac9-a3d1-4d30-af70-3a26442903f5": {
+      "ProjectGuid": "b34a2ac9-a3d1-4d30-af70-3a26442903f5",
+      "DisplayName": "OOP_baiTap",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
