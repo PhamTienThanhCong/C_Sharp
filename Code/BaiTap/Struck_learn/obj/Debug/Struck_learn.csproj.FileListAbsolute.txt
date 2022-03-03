@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\bin\Debug\Struck_learn.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\bin\Debug\Struck_learn.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\bin\Debug\Struck_learn.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\obj\Debug\Struck_learn.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\obj\Debug\Struck_learn.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\obj\Debug\Struck_learn.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\obj\Debug\Struck_learn.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Struck_learn\obj\Debug\Struck_learn.pdb

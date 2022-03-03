@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\bin\Debug\OOP_baiTap.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\bin\Debug\OOP_baiTap.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\bin\Debug\OOP_baiTap.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\obj\Debug\OOP_baiTap.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\obj\Debug\OOP_baiTap.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\obj\Debug\OOP_baiTap.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\obj\Debug\OOP_baiTap.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OOP_baiTap\obj\Debug\OOP_baiTap.pdb
