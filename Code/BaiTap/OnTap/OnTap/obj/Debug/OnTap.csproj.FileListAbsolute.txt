@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\bin\Debug\OnTap.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\bin\Debug\OnTap.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\bin\Debug\OnTap.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\obj\Debug\OnTap.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\obj\Debug\OnTap.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\OnTap\OnTap\obj\Debug\OnTap.pdb
