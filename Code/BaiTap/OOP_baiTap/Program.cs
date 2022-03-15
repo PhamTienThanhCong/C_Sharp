@@ -12,12 +12,16 @@ namespace OOP_baiTap
         protected String name;
         protected int age;
         protected String Gender;
+        protected int Age;
         
         public Person()
         {
-            this.name = "";
-            this.age = 0;
-            this.Gender = "";
+        }
+
+        public void setAge(int a)
+        {
+            a = CheckAge(a);
+            this.Age = a;
         }
         
         public void setValue(String name, int age, String Gender)
@@ -29,7 +33,7 @@ namespace OOP_baiTap
 
         public void Hello()
         {
-            Console.WriteLine("- Name: {0}, \n- Age {1} yearold,\n- Gender: {2}", this.name,this.age,this.Gender);
+            Console.WriteLine("Hello cac ban\n- Name: {0}, \n- Age {1} yearold,\n- Gender: {2}", this.name,this.age,this.Gender);
         }
 
         public String CheckGender(String Gender)
@@ -80,7 +84,6 @@ namespace OOP_baiTap
     class Teacher : Person
     {
         private String ClassMate;
-        public Teacher() { }
 
         public Teacher(String name, int age, String Gender, String ClassMate)
         {
@@ -92,6 +95,11 @@ namespace OOP_baiTap
         {
             Hello();
             Console.WriteLine("- Teach: " + this.ClassMate);
+        }
+
+        public void Teach()
+        {
+            Console.WriteLine("i am teaching");
         }
     }
 
@@ -111,6 +119,16 @@ namespace OOP_baiTap
             Console.WriteLine("- Point: " + this.Point);
         }
 
+        public void ShowAge()
+        {
+            Console.WriteLine("My age is {0} year old", this.age);
+        }
+
+        public void Study()
+        {
+            Console.WriteLine("i am studying");
+        }
+
         public double CheckPoint(double Point)
         {
             while(Point < 0 || Point > 10)
@@ -126,16 +144,23 @@ namespace OOP_baiTap
     {
         static void Main(string[] args)
         {
+            List<Person> listPerson = new List<Person>();
+            listPerson.Add(new Person());
+            listPerson[0].setValue("Cong", 20, "nm");
+
             List<Teacher> listTeacher = new List<Teacher>();
             listTeacher.Add(new Teacher("huy", 35, "nam", "dien tu"));
 
             List<Student> listStudent = new List<Student>();
             listStudent.Add(new Student("hoa", 22, "nam", 9.2));
 
-            Console.WriteLine("\nSinh vien:");
+            Console.WriteLine("\n1. Person:");
+            listPerson[0].Hello();
+
+            Console.WriteLine("\n2. Sinh vien:");
             listStudent[0].infoStudent();
 
-            Console.WriteLine("\nGaio vien:");
+            Console.WriteLine("\n3. Gaio vien:");
             listTeacher[0].NotiTeaching();
         }
     }

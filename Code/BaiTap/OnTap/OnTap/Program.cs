@@ -58,7 +58,7 @@ namespace OnTap
 
             public bool Refuel(int a)
             {
-                fuel = a;
+                fuel += a;
                 return true;
             }
 
@@ -66,11 +66,22 @@ namespace OnTap
             {
                 if (fuel == 0)
                 {
+                    Console.WriteLine("Xe het Xang: ");
                     DoXang();
                 }
                 else
                 {
+                    fuel -= 3;
                     Console.WriteLine("Xe dang chay");
+                }
+                if (fuel <= 0)
+                {
+                    Console.WriteLine("Xe het Xang do them nhien lieu: ");
+                    DoXang();
+                }else if (fuel <= 3)
+                {
+                    Console.WriteLine("Xe chuan bi het Xang do them nhien lieu: ");
+                    DoXang();
                 }
             }
             public void DoXang()
@@ -87,7 +98,8 @@ namespace OnTap
             Car a = new Car();
             a.DoXang();
             a.driver();
-
+            a.driver();
+            a.driver();
         }
     }
 }

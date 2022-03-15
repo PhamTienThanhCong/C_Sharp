@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\bin\Debug\BaiThi2.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\bin\Debug\BaiThi2.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\bin\Debug\BaiThi2.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\obj\Debug\BaiThi2.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\obj\Debug\BaiThi2.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\obj\Debug\BaiThi2.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\obj\Debug\BaiThi2.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThi2\BaiThi2\obj\Debug\BaiThi2.pdb
