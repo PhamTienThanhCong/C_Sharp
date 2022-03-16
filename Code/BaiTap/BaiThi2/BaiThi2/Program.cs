@@ -8,73 +8,81 @@ namespace BaiThi2
 {
     internal class Program
     {
-        class DongVat
+        class LoaiSanBay
         {
-            public double CanNang;
-            public String TenLoai;
-            public DongVat() { }
-            public void NhapThongTinDongVat(String TenLoai, double CanNang) { 
-                this.CanNang = CanNang;
-                this.TenLoai = TenLoai;
+            protected int NamHoatDong;
+            protected Char KiHieu;
+            public LoaiSanBay() { }
+            public void NhapThongTinLoaiSanBay(Char KiHieu, int NamHoatDong) { 
+                this.KiHieu = KiHieu;
+                this.NamHoatDong = NamHoatDong;
             }
             public void InThongTin()
             {
-                Console.WriteLine("Ten loai: " + TenLoai);
-                Console.WriteLine("Can Nang: "  + CanNang);
+                Console.WriteLine("Nam hoat Dong: " + NamHoatDong);
+                Console.WriteLine("Ki Hieu Loai: "  + KiHieu);
             }
 
         }
-        class GiaCam : DongVat
+        class SanBay : LoaiSanBay
         {
-            public int SoTien;
-            public GiaCam() { }
-            public void setSoTien(int SoTien) { 
-                this.SoTien = SoTien;
+            private String TenSanBay;
+            public SanBay() { }
+            public void setTenSanBay(String TenSanBay) { 
+                this.TenSanBay = TenSanBay;
             }
-            public void inThongTinGiaCam()
+            public void inThongTinSanBay()
             {
-                Console.WriteLine("Gia Tien: " + SoTien);
+                InThongTin();
+                Console.WriteLine("Ten San Bay: " + TenSanBay);
             }
 
         }
 
-        class TrangTrai : DongVat
+        class DienTichSanBay : LoaiSanBay
         {
-            public String ViTri;
-            public TrangTrai() { }
+            private double DienTich;
+            public DienTichSanBay() { }
 
-            public void setViTri(String ViTri) { 
-                this.ViTri = ViTri;
+            public void SetDienTich(double DienTich) { 
+                this.DienTich = DienTich;
             }
 
-            public void inThongTinTrangTrai()
+            public static void set(double DienTich)
             {
-                Console.WriteLine("Trang Trai: " + ViTri);
+                SetDienTich(DienTich)
+            }
+
+            public void inThongTinSanBay()
+            {
+                InThongTin();
+                Console.WriteLine("Dien Tich San Bay: " + DienTich);
             }
 
         }
 
         static void Main(string[] args)
         {
-            DongVat dongVat = new DongVat();
-            dongVat.NhapThongTinDongVat("Ga Cong Nghiep", 5.4);
-            dongVat.InThongTin();
+            Console.WriteLine("-Cau 1----------------------------------");
+            LoaiSanBay san_bay_1 = new LoaiSanBay();
+            san_bay_1.NhapThongTinLoaiSanBay('C', 2007);
+            san_bay_1.InThongTin();
 
-            Console.WriteLine("-----------------------------------");
+            Console.WriteLine("-Cau 2----------------------------------");
 
-            GiaCam giaCam = new GiaCam();
-            giaCam.NhapThongTinDongVat("Con Vit Bau", 4.5);
-            giaCam.setSoTien(50000);
-            giaCam.InThongTin();
-            giaCam.inThongTinGiaCam();
+            SanBay san_bay_2 = new SanBay();
+            san_bay_2.NhapThongTinLoaiSanBay('A', 1990);
+            san_bay_2.setTenSanBay("Tan Son Nhat");
+            san_bay_2.InThongTin();
+            san_bay_2.inThongTinSanBay();
 
-            Console.WriteLine("-----------------------------------");
+            Console.WriteLine("-Cau 3----------------------------------");
 
-            TrangTrai trangTrai = new TrangTrai();
-            trangTrai.NhapThongTinDongVat("Con Bo Non", 100.3);
-            trangTrai.setViTri("Lau Dai Tinh Ai");
-            trangTrai.InThongTin();
-            trangTrai.inThongTinTrangTrai();
+            DienTichSanBay san_bay_3 = new DienTichSanBay();
+            san_bay_3.NhapThongTinLoaiSanBay('C', 2007);
+            san_bay_3.SetDienTich(13.8);
+            san_bay_3.InThongTin();
+            san_bay_3.inThongTinSanBay();
         }
     }
 }

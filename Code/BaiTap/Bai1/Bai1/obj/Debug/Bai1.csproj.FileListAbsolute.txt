@@ -1,0 +1,8 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\bin\Debug\Bai1.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\bin\Debug\Bai1.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\bin\Debug\Bai1.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\obj\Debug\Bai1.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\Bai1\Bai1\obj\Debug\Bai1.pdb
