@@ -8,81 +8,82 @@ namespace BaiThi2
 {
     internal class Program
     {
-        class LoaiSanBay
+        class DiemSo
         {
-            protected int NamHoatDong;
-            protected Char KiHieu;
-            public LoaiSanBay() { }
-            public void NhapThongTinLoaiSanBay(Char KiHieu, int NamHoatDong) { 
-                this.KiHieu = KiHieu;
-                this.NamHoatDong = NamHoatDong;
+            protected int DiemKieuSo;
+            protected Char DiemKieuChu;
+            public DiemSo(int DiemKieuSo, char DiemKieuChu) { 
+                this.DiemKieuSo = DiemKieuSo;
+                this.DiemKieuChu = DiemKieuChu;
             }
             public void InThongTin()
             {
-                Console.WriteLine("Nam hoat Dong: " + NamHoatDong);
-                Console.WriteLine("Ki Hieu Loai: "  + KiHieu);
+                Console.WriteLine("Diem thi: " + DiemKieuSo);
+                Console.WriteLine("Diem chuyen doi: "  + DiemKieuChu);
             }
 
         }
-        class SanBay : LoaiSanBay
+        class KietQua : DiemSo
         {
-            private String TenSanBay;
-            public SanBay() { }
-            public void setTenSanBay(String TenSanBay) { 
-                this.TenSanBay = TenSanBay;
+            private String HocLuc;
+            public KietQua(int DiemKieuSo, char DiemKieuChu) :base(DiemKieuSo, DiemKieuChu) {}
+            public void setHocLuc(String HocLuc) { 
+                this.HocLuc = HocLuc;
             }
-            public void inThongTinSanBay()
+            public void inThongTinKetQua()
             {
-                InThongTin();
-                Console.WriteLine("Ten San Bay: " + TenSanBay);
+                base.InThongTin();
+                Console.WriteLine("Hoc Luc: " + HocLuc);
             }
 
         }
 
-        class DienTichSanBay : LoaiSanBay
+        class DiemThiLai : DiemSo
         {
-            private double DienTich;
-            public DienTichSanBay() { }
+            public double DiemThi;
+            public DiemThiLai(int DiemKieuSo, char DiemKieuChu) : base(DiemKieuSo, DiemKieuChu) { }
 
-            public void SetDienTich(double DienTich) { 
-                this.DienTich = DienTich;
+            public void SetDiemThi(double DiemThi) { 
+                this.DiemThi = DiemThi;
             }
 
-            public static void set(double DienTich)
+            public static void KetQuaThi(double DiemThi)
             {
-                SetDienTich(DienTich)
+                if(DiemThi <= 4)
+                {
+                    Console.WriteLine("Ket qua: Truot mon");
+                }
+                else
+                {
+                    Console.WriteLine("Ket qua: Qua mon");
+                }
             }
 
-            public void inThongTinSanBay()
+            public void inKetQua()
             {
                 InThongTin();
-                Console.WriteLine("Dien Tich San Bay: " + DienTich);
+                Console.WriteLine("Diem thi lai: " + DiemThi);
+                KetQuaThi(DiemThi);
             }
 
         }
 
         static void Main(string[] args)
         {
-            Console.WriteLine("-Cau 1----------------------------------");
-            LoaiSanBay san_bay_1 = new LoaiSanBay();
-            san_bay_1.NhapThongTinLoaiSanBay('C', 2007);
-            san_bay_1.InThongTin();
+            Console.WriteLine("\nCau 1:");
+            DiemSo Diem_1 = new DiemSo(8,'B');
+            Diem_1.InThongTin();
 
-            Console.WriteLine("-Cau 2----------------------------------");
+            Console.WriteLine("\nCau 2:");
+            KietQua Diem_2 = new KietQua(7, 'B');
+            Diem_2.setHocLuc("Kha");
+            Diem_2.inThongTinKetQua();
 
-            SanBay san_bay_2 = new SanBay();
-            san_bay_2.NhapThongTinLoaiSanBay('A', 1990);
-            san_bay_2.setTenSanBay("Tan Son Nhat");
-            san_bay_2.InThongTin();
-            san_bay_2.inThongTinSanBay();
-
-            Console.WriteLine("-Cau 3----------------------------------");
-
-            DienTichSanBay san_bay_3 = new DienTichSanBay();
-            san_bay_3.NhapThongTinLoaiSanBay('C', 2007);
-            san_bay_3.SetDienTich(13.8);
-            san_bay_3.InThongTin();
-            san_bay_3.inThongTinSanBay();
+            Console.WriteLine("\nCau 3:");
+            DiemThiLai Diem_3 = new DiemThiLai(3, 'F');
+            Diem_3.SetDiemThi(5.5);
+            Diem_3.inKetQua();
+            
         }
     }
 }

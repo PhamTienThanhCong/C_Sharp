@@ -10,56 +10,58 @@ namespace Bai1
     {
         static void Main(string[] args)
         {
-            const int stt = 23;
-            int n = 20;
-            int[] a = new int[100];
-            Console.Write("Nhap 20 phan tu cua mang : ");
+            const int stt = 33;
+            int n = 15+stt;
+            double[] a = new double[100];
+            Console.WriteLine("Dinh viet huy: 20010902. STT:33");
+            Console.Write("Nhap 15 phan tu cua mang : ");
 
-            a[0] = stt;
-            Console.Write("\n-Phan Tu Thu {0}: {1}", 1, stt);
-            for (int i = 1; i < n; i++)
+            for (int i = stt; i < n; i++)
             {
-                Console.Write("\n-Phan Tu Thu {0}: ", i+1);
-                a[i] = Convert.ToInt32(Console.ReadLine());
+                Console.Write("\nNhap phan Tu Thu {0}: ", i);
+                a[i] = Convert.ToDouble(Console.ReadLine());
             }
 
-            Console.Write("\nCac phan tu chia het cho 5 la : ");
-            for (int i = 0; i < n; i++)
+            Console.Write("\nCac phan tu co phan nguyen chia het cho chia het cho 6 la : ");
+            for (int i = stt; i < n; i++)
             {
-                if (a[i] % 5 == 0)
+                if (((int)a[i]) % 6 == 0)
                 {
                     Console.Write(a[i] + " ");
                 }
             }
 
-            Console.Write("\nNhap phan tu x: ");
-            int x = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\nNhap phan tu a: ");
+            double c = Convert.ToDouble(Console.ReadLine());
             bool check = true;
-            for (int i = 0; i < n; i++)
+            for (int i = stt; i < n; i++)
             {
-                if (a[i] == x)
+                if (a[i] == c)
                 {
-                    Console.WriteLine("Vi Tri Xuat Hien dau tien cua {0} la vi tri: {1}",x,i);
                     check = false;
                     break;
                 }
             }
             if (check)
             {
-                Console.WriteLine("Phan tu {0} khong co trong mang.", x);
+                Console.WriteLine("Phan tu {0} khong co trong mang.", c);
+            }
+            else
+            {
+                Console.WriteLine("Phan tu {0} ton tai trong mang.", c);
             }
 
-            Console.Write("\nNhap phan tu y: ");
-            int y = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\nNhap phan tu b: ");
+            double b = Convert.ToDouble(Console.ReadLine());
             int count = 0;
-            for (int i = 0; i < n; i++)
+            for (int i = stt; i < n; i++)
             {
-                if (a[i] == y)
+                if (a[i] == b)
                 {
-                    count+=a[i];
+                    count++;
                 }
             }
-            Console.WriteLine("Tong cua y la: " + count);
+            Console.WriteLine("So lan xuat hien cua b la: " + count);
         }
     }
 }
