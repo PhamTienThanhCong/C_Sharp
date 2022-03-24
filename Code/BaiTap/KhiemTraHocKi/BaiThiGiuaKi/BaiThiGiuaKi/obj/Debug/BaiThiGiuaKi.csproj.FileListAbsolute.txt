@@ -1,0 +1,16 @@
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.exe.config
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\bin\Debug\BaiThiGiuaKi.pdb
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.exe
+H:\DATA CODE\Project_C_Shape\Code\BaiTap\KhiemTraHocKi\BaiThiGiuaKi\BaiThiGiuaKi\obj\Debug\BaiThiGiuaKi.pdb
