@@ -1,0 +1,16 @@
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\bin\Debug\FormCoffee.exe.config
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\bin\Debug\FormCoffee.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\bin\Debug\FormCoffee.pdb
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\MainWindow.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\App.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee_MarkupCompile.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee_MarkupCompile.lref
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\MainWindow.baml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.g.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.Properties.Resources.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.csproj.GenerateResource.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\FormCoffee\FormCoffee\obj\Debug\FormCoffee.pdb
