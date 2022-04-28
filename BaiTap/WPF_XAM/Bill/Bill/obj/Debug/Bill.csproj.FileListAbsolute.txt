@@ -1,0 +1,15 @@
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\bin\Debug\Bill.exe.config
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\bin\Debug\Bill.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\bin\Debug\Bill.pdb
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\MainWindow.baml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\MainWindow.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\App.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill_MarkupCompile.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.g.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.Properties.Resources.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.csproj.GenerateResource.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\Bill\Bill\obj\Debug\Bill.pdb

@@ -19,5 +19,6 @@
         </Button>
         <TextBox x:Name="TextBox" HorizontalAlignment="Left" Margin="39,70,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="241" Height="130" FontSize="18"/>
         <Label Content="Họ Và Tên" HorizontalAlignment="Left" Margin="39,39,0,0" VerticalAlignment="Top" Width="275" FontSize="14"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="295,21,45,136" SelectionChanged="DataGrid_SelectionChanged"/>
     </Grid>
 </Window>
