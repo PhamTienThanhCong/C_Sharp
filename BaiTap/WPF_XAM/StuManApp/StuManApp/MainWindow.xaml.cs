@@ -51,6 +51,7 @@ namespace StuManApp
         private void btnCreate_Click(object sender, RoutedEventArgs e)
         {
             CreateStudent newStudent = new CreateStudent();
+            this.Close();
             newStudent.Show();
         }
 

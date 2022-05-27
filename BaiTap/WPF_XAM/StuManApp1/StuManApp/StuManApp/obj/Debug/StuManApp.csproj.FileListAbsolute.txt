@@ -1,0 +1,82 @@
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.csprojAssemblyReference.cache
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\App.g.cs
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.cache
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.lref
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\StuManApp.exe.config
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\StuManApp.exe
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\StuManApp.pdb
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\MainWindow.baml
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.g.resources
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.Properties.Resources.resources
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.GenerateResource.cache
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CopyComplete
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.exe
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\StuManApp.pdb
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\CreateStudent.g.cs
+C:\Users\Nguyen Trung\source\repos\StuManApp\StuManApp\obj\Debug\CreateStudent.baml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.AssemblyReference.cache
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\CreateStudent.g.cs
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\MainWindow.g.cs
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\App.g.cs
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.cache
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.lref
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.exe
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.pdb
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\StuManApp.exe.config
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\StuManApp.exe
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\StuManApp.pdb
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\EntityFramework.dll
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\EntityFramework.xml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\CreateStudent.baml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\MainWindow.baml
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.g.resources
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.Properties.Resources.resources
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.GenerateResource.cache
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CoreCompileInputs.cache
+C:\Users\congp\OneDrive\Desktop\StuManApp\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CopyComplete
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\StuManApp.exe.config
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\StuManApp.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\StuManApp.pdb
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\EntityFramework.dll
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.dll
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.dll
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.EF6.dll
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.Linq.dll
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\EntityFramework.xml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\EntityFramework.SqlServer.xml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\bin\Debug\System.Data.SQLite.xml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.AssemblyReference.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.SuggestedBindingRedirects.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\CreateStudent.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\MainWindow.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\App.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp_MarkupCompile.lref
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\CreateStudent.baml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\MainWindow.baml
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.g.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.Properties.Resources.resources
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.GenerateResource.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CoreCompileInputs.cache
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.csproj.CopyComplete
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.exe
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\StuManApp.pdb
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\UpdateStudent.g.cs
+H:\DATA CODE\Project_C_Shape\BaiTap\WPF_XAM\StuManApp\StuManApp\obj\Debug\UpdateStudent.baml
